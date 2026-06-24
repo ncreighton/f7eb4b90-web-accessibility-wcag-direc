@@ -1,2 +1,28 @@
-# f7eb4b90-web-accessibility-wcag-direc
-The accessibility tool you'd build yourself — if you had the time.  Fully documented admin settings panel — no code required for configuration. Compatible with all major WordPress themes and page builders.  ## What's Included  - Web Accessibility (Wcag) Directory And Listings — fully configured and ready to use - Clean admin settings panel with inl
+# Web Accessibility (WCAG) Directory and Listings WordPress Plugin
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Core functionality | Yes | Yes |
+| Basic settings | Yes | Yes |
+| Standard widgets | Yes | Yes |
+| Advanced features | - | Yes |
+| Priority support | - | Yes |
+| Custom post types | - | Yes |
+| API access | - | Yes |
+| White-label option | - | Yes |
+| Multisite support | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/3cI9AT8v5aQAe0033mcZz3n)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/3cI9AT8v5aQAe0033mcZz3n)
+
